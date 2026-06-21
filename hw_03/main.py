@@ -29,3 +29,6 @@ response = client.chat.completions.create(
 )
 
 print(response.choices[0].message.content)
+
+
+# uv run python hw_03/main.py
