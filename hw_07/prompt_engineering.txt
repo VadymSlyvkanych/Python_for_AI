@@ -1,0 +1,54 @@
+Промпт-инжиниринг для Stable Diffusion / Gemini Image
+
+1. Ключевые техники
+
+   a) Структура промпта
+      [Subject] + [Action/Setting] + [Style/Medium] + [Lighting] +
+      [Colors] + [Composition] + [Quality Boosters]
+
+   b) Quality Boosters
+      - "highly detailed", "intricate details", "sharp focus"
+      - "8k", "4k", "ultra HD"
+      - "masterpiece", "best quality", "artstation trending"
+
+   c) Style Modifiers
+      - "cinematic lighting", "volumetric lighting", "dramatic lighting"
+      - "photorealistic", "hyperrealistic", "digital art", "oil painting"
+      - "unreal engine 5", "octane render", "ray tracing"
+      - "by greg rutkowski", "by studio ghibli", "artstation"
+
+   d) Negative Prompts (чего избегать)
+      - "nsfw, low quality, blurry, distorted, ugly, bad anatomy"
+      - "extra limbs, deformed, poorly drawn face"
+
+   e) Weighting (акцентирование)
+      - Повторение важных слов: "cat cat cat"
+      - Расстановка приоритетов: сначала subject, потом окружение
+
+2. Примеры применения
+
+   Простой промпт:
+     "a cat sitting on a chair"
+
+   С применением техник:
+     "a fluffy orange cat sitting on an antique wooden chair, soft
+     afternoon sunlight streaming through window, photorealistic,
+     highly detailed, intricate fur texture, shallow depth of field,
+     cinematic composition, 8k, masterpiece"
+
+3. Результаты в работе
+
+   Изображение 1 (простой):
+     "a cute orange cat sitting on a wooden chair, simple cartoon
+     style, flat colors, white background"
+
+   Изображение 2 (средний):
+     "a futuristic cyberpunk city street at night, neon signs in
+     Japanese, rain reflecting on wet pavement, flying cars in the
+     sky, cinematic lighting, highly detailed, digital art"
+
+   Изображение 3 (сложный):
+     "ethereal fantasy landscape with floating crystal islands in a
+     pastel sunset sky, waterfalls cascading into clouds,
+     bioluminescent trees, intricate details, hyperrealistic,
+     magical atmosphere, artstation style, unreal engine 5"
