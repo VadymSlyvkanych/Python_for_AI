@@ -1,0 +1,14 @@
+1. Sentiment Classification
+- Категория: Classification
+- Промпт: "Classify the text into neutral, negative, or positive. Text: {input}. Sentiment:"
+- Суть: Zero-shot классификация текста по тональности. Простой шаблон для анализа отзывов и мониторинга.
+
+2. Generate Code Snippet
+- Категория: Coding
+- Промпт: "/* Ask the user for their name and say 'Hello' */"
+- Суть: Генерация кода по описанию в комментарии. Расширяется на любой язык программирования.
+
+3. Explain a Concept
+- Категория: Text Summarization
+- Промпт: Текст → "Explain the above in one sentence:"
+- Суть: Сжатие сложного текста в одно предложение. Полезно для саммари и упрощения объяснений.

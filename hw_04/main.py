@@ -51,5 +51,6 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"Ошибка после всех попыток: {e}")
 
-# v run python hw_04/main.py
+# uv run python hw_04/main.py
+
 
