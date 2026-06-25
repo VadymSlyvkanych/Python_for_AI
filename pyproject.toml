@@ -16,4 +16,13 @@ dependencies = [
     "beautifulsoup4>=4.12.0",
     "lxml>=5.0.0",
     "faiss-cpu>=1.9.0",
+    "torch>=2.0.0",
+    "transformers>=4.40.0",
+    "datasets>=2.10.0",
+    "peft>=0.10.0",
+    "accelerate>=0.30.0",
+    "sentencepiece>=0.2.0",
+    "evaluate>=0.4.0",
+    "nltk>=3.9.4",
+    "rouge-score>=0.1.2",
 ]
